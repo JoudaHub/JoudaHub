@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm JOUDA JHIDRI
 
-🎯 Passionate developer focused on building modern web applications
+🎯 Passionate full stack developer focused on building modern web applications
 💻 Currently working with JavaScript, Node.js, and React
-📚 Always learning and improving my skills every day
+📚 Every day learning and improving my skills 
 
 ---
 
@@ -12,7 +12,7 @@
 * 🌱 I’m learning **MERN Stack (MongoDB, Express, React, Node.js)**
 * 👯 I’m looking to collaborate on interesting projects
 * 💬 Ask me about JavaScript, APIs, and backend development
-* 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 How to reach me: ** JoudaJhidri191@gmail.com **
 
 ---
 
@@ -43,13 +43,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-
----
-
-## 📫 Contact Me
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
 
 ---
 
